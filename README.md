@@ -1,5 +1,7 @@
 # Trabajo-Colaborativo
-Trabajo de la maestra Luz
-Jovanni Vázquez Nuñez
-Juan Manuel Santos Ramírez
-Josué de Jesús Morales Pérez 
+Roles dentro del Proyecto 
+ 
+
+Josué de Jesús Morales Pérez: Admin del proyecto
+Juan Manuel Santos Rammírez: Sub director del proyecto 
+Jovani Vásquez Nuñes: Desarrollo de Front end
